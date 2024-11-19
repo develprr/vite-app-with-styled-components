@@ -2,7 +2,7 @@
 
 This is an example application to demonstrate [Styled Components](https://styled-components.com/) library in use.
 
-## Prerequiisites
+## Prerequisites
 
 This exammple repo is split into branches based on the show case. To try out the examples,
 Be sure to have [NodeJS](https://nodejs.org/en) and [PNPM](https://pnpm.io/) installled.
