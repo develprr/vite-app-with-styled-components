@@ -11,7 +11,7 @@ Then clone this project to your machine from the Github repository.
 
 ## Usage
 
-To check available branches, type:
+To list available branches, type:
 
 `git branch -a`
 
